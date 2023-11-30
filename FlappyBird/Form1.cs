@@ -32,7 +32,9 @@ namespace FlappyBird
 
                 playerPoint += 10;
                 lblPoint.Text = playerPoint.ToString();
-                System.Media.SystemSounds.Beep.Play();
+
+                //System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"");
+                //player.Play();1"
             }
             if (pipeUp.Right < 0)
             {
