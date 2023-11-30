@@ -9,7 +9,7 @@ Ekranda bir Button yer aldığı için Formumuz tuşa basıldığında tepki ver
 
 Form1 ve Form2 uygulamalarında sütun yüksekliklerini daha karmaşık yöntemlerle hesapladık. Form3 ise bu konuda daha anlaşılır ve kolay bir yöntem kullanıyor.
 
-
+<br>
 ****** ÖNEMLİ *****
 
 Top özelliği bir kontrolün Y konumunu belirtir.
